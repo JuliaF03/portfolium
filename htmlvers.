@@ -1,0 +1,81 @@
+# portfolium
+personal portifolium
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+
+    <title>Portfólio</title>
+
+    <meta name="author" content="Julia Fernandes">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css" />
+
+  </head>
+
+  <body>
+    <header>
+
+      <h1>Oi, sou a Julia!</h1>
+      <h2>E este é meu próprio site (ou portfólio!)</h2>
+      <br />
+      <a href="siteportfENG.html"<h3>Speak english? No problem.</h3><a/>
+
+    </header>
+
+  <main>
+    <section>
+
+      <h4>Sobre mim</h4>
+      <p>Meu nome é Julia Fernandes de Oliveira, tenho 18 anos e sou de Ferraz de Vasconcelos/SP - Brasil.</p>
+      <p>Me considero uma pessoa excêntrica e criativa, estou sempre procurando algo diferente para fazer e me capacitar.</p>
+      <p>Atualmente sou aluna do curso de Ciência da Computação EAD da FMU (2°sem)</p>
+
+    </section>
+    <section>
+      <h4>Interesse em programação</h4>
+      <p>Meu interesse em programação surgiu ao começar a ver meu próprio irmão programar (para o trabalho/faculdade), e ver um monte de códigos e sintaxes diferentes me fez curiosa com o tema desde a pré-adolescência.</p>
+      <h4>Habilidades</h4>
+      <ul>
+        <li>Python3</li>
+        <li>GITHub</li>
+        <li>JavaScript</li>
+        <li>C e C++</li>
+        <li>HTML5</li>
+        <li>CSS3</li>
+      </ul>
+
+      <p><b>JQuery, Bootstrap e PHP estão em andamento.</b>
+
+    </section>
+    <section>
+
+      <h3>Experiências Profissionais</h3>
+      <p>Procuro estágios e empregos desde os 16 anos de idade, porém ainda não consegui ingressar em nenhuma empresa;
+      Mas ultimamente estou mais confiante das minhas habilidades pessoais e acredito que logo uma porta se abrirá para mim!</p>
+
+    </section>
+    <section>
+      <h3>Projetos</h3>
+      <ul>
+        <li>Este site!</li>
+        <li>Programa de conclusão do curso de Python3 (Make your salad.py)</li>
+        <li>Projeto de conclusão do curso de HTML5 (place-order.html)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h3>Contato</h3>
+      Email:<a href="#">juliaffernandesoliveira@gmail.com</a><br />
+      Telefone:(11)99682-3213
+    </section>
+
+
+  <footer>
+    <center>&copy; 2021</center>
+  </footer>
+
+  </body>
+
+</html>
